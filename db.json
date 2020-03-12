@@ -2,7 +2,7 @@
   "posts": [
     { "id": 101, "title": "Post 1" },
     { "id": 102, "title": "Post 2" },
-    { "id": 1033, "title": "Post 3" }
+    { "id": 103, "title": "Post 3" }
   ],
   "comments": [
     { "id": 101, "body": "some comment", "postId": 1 },
